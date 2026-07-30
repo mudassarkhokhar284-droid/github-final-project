@@ -17,3 +17,6 @@ This Code of Conduct applies within all project spaces.
 
 ## Enforcement
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project leaders.
+
+## Attribution 
+This Code of conduct is adapted From the Contributor Convenant, version 2.1.
